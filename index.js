@@ -18,6 +18,6 @@ function makeInt(n) {
   return parseInt(n, 10)
 }
 
-function preserveDecimaal(string)) {
-  return parseFloat(string)
+function preserveDecimal(n) {
+  return parseFloat(n)
 }
