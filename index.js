@@ -8,10 +8,10 @@ function multiply(a,b) {
 function divide(a,b) {
   return a/b
 }
-function inc(n) {
+function increment(n) {
   return n+=1
 }
-function dec(n) {
+function decrement(n) {
   return n-=1
 }
 function makeInt(n) {
