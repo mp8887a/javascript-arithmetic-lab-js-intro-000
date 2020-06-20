@@ -1,1 +1,1 @@
-function add() {return a+b}
+function add(numbers) {return a+b}
