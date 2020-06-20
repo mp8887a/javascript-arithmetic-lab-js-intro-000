@@ -1,3 +1,1 @@
-function() {
-  number + number
-}
+function add() {number + number}
